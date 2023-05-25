@@ -9,7 +9,6 @@ br/mackenzie/restapi/pais/PaisController.class
 br/mackenzie/restapi/pais/Pais.class
 br/mackenzie/restapi/pais/PaisRepository.class
 br/mackenzie/restapi/security/dao/UserDao.class
-br/mackenzie/restapi/security/controller/HelloWorldController.class
 br/mackenzie/restapi/security/model/UserDTO.class
 br/mackenzie/restapi/jogo/JogoRepository.class
 br/mackenzie/restapi/security/service/JwtUserDetailsService.class
