@@ -1,27 +1,27 @@
 # LendOps
 
-1. Login do administrador:
+1. Login do administrador: <br>
    1.1. Nome de usuário e senha; <br>
-   1.2. Poderá cadastrar e editar um novo entreternimento;
-   1.3. Visualizar o número médio de amigos
+   1.2. Poderá cadastrar e editar um novo entreternimento; <br>
+   1.3. Visualizar o número médio de amigos; <br>
    (A soma do número de amigos de cada usuário,
-   dividido pelo número total de usuários);
-   • Visualizar o top5 membros com mais amigos;
-   • Um gráfico mostrando o número de amigos por região.
+   dividido pelo número total de usuários); <br>
+   • Visualizar o top5 membros com mais amigos; <br>
+   • Um gráfico mostrando o número de amigos por região. <br>
 
 3. Perfil do usuário:
-   • Nome de usuário, Mês/Ano de nascimento, Cidade/Estado;
-   • Amigos;
+   • Nome de usuário, Mês/Ano de nascimento, Cidade/Estado; <br>
+   • Amigos; <br>
    • Avaliações feitas.
 
 5. Cadastrar livro:
-   • Título, autor, editora, país e ano de lançamento;
-   • Número de likes e deslikes;
+   • Título, autor, editora, país e ano de lançamento; <br>
+   • Número de likes e deslikes; <br>
    • Comentários.
 
 6. Cadastrar filme:
-   • Título, diretor, elenco principal, país e ano;
-   • Número de likes e deslikes;
+   • Título, diretor, elenco principal, país e ano; <br>
+   • Número de likes e deslikes; <br>
    • Comentários.
 
 7. Cadastrar série:
