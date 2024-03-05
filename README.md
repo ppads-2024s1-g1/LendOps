@@ -4,7 +4,7 @@
    • Nome de usuário e senha; <br>
    • Poderá cadastrar e editar um novo entreternimento; <br>
    • Visualizar o número médio de amigos; <br>
-   (A soma do número de amigos de cada usuário,
+   --(A soma do número de amigos de cada usuário,
    dividido pelo número total de usuários); <br>
    • Visualizar o top5 membros com mais amigos; <br>
    • Um gráfico mostrando o número de amigos por região. <br>
