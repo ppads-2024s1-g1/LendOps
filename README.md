@@ -1,7 +1,7 @@
 # LendOps
 
 1. Login do administrador:
-   1.1. Nome de usuário e senha;
+   1.1. Nome de usuário e senha; <br>
    1.2. Poderá cadastrar e editar um novo entreternimento;
    1.3. Visualizar o número médio de amigos
    (A soma do número de amigos de cada usuário,
