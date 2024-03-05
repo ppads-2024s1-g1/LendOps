@@ -19,24 +19,23 @@
    • Número de likes e deslikes; <br>
    • Comentários.
 
-6. Cadastrar filme:
+6. Cadastrar filme: <br>
    • Título, diretor, elenco principal, país e ano; <br>
    • Número de likes e deslikes; <br>
    • Comentários.
 
-7. Cadastrar série:
-   • Título, diretor, elenco principal, país, ano e número de temporadas
-   • Número de likes e deslikes;
-   • Comentários.
+7. Cadastrar série: <br>
+   • Título, diretor, elenco principal, país, ano e número de temporadas; <br>
+   • Número de likes e deslikes; <br>
+   • Comentários. 
 
-Funções do site:
-   • Para logar, o usuário precisa apenar informar seu nome de usuário;
-   • Barra de pesquisa entregando todo entreternimento disponível;
-   • Barra de pesquisa de usuários;
-   • Usuários acessando o perfil de outros usuários;
-   • Adicionar usuário como amigo (Enviar convite e esperar aceitar ou não);
-   • Usuários podem comentar nos comentários dos seus amigos;
-   • Mostrar amigos em comum caso entre no perfil de algum amigo;
+Funções do site: <br>
+   • Para logar, o usuário precisa apenar informar seu nome de usuário; <br>
+   • Barra de pesquisa entregando todo entreternimento disponível; <br>
+   • Barra de pesquisa de usuários; <br>
+   • Usuários acessando o perfil de outros usuários; <br>
+   • Adicionar usuário como amigo (Enviar convite e esperar aceitar ou não); <br>
+   • Usuários podem comentar nos comentários dos seus amigos; <br>
+   • Mostrar amigos em comum caso entre no perfil de algum amigo; <br>
    • Cada filme, série e livro deve ter sua página com uma visão geral,
-   contendo as avaliações e sua nota geral;
-   • 
+   contendo as avaliações e sua nota geral; <br>
