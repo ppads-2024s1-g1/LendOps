@@ -9,12 +9,12 @@
    • Visualizar o top5 membros com mais amigos; <br>
    • Um gráfico mostrando o número de amigos por região. <br>
 
-3. Perfil do usuário:
+3. Perfil do usuário: <br>
    • Nome de usuário, Mês/Ano de nascimento, Cidade/Estado; <br>
    • Amigos; <br>
    • Avaliações feitas.
 
-5. Cadastrar livro:
+5. Cadastrar livro: <br>
    • Título, autor, editora, país e ano de lançamento; <br>
    • Número de likes e deslikes; <br>
    • Comentários.
