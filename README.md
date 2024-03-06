@@ -1,5 +1,5 @@
 # LendOps
-
+## Descrição geral
 1. Login do administrador: <br>
    • Nome de usuário e senha; <br>
    • Poderá cadastrar e editar um novo entreternimento; <br>
