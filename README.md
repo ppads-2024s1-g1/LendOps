@@ -1,6 +1,5 @@
-
-Descrição geral
-Login do administrador:
+# Descrição geral <br>
+Login do administrador: <br>
 • Nome de usuário e senha;
 • Poderá cadastrar e editar um novo entreternimento;
 • Visualizar o número médio de amigos;
