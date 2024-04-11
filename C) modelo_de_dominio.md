@@ -1,3 +1,3 @@
 # Modelo de domínio
 
-https://www.mermaidchart.com/raw/adb9e18d-c7b3-48a0-9fb3-173895a8cae5?theme=light&version=v0.1&format=svg
+![Diagrama de classe](https://github.com/ppads-2024s1-g1/LendOps/assets/42143717/6510fc01-0d2e-4b41-9151-c412db2655fa)
