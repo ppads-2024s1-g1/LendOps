@@ -17,9 +17,9 @@ function getToken() {
 		console.log(responseObject);
 		if (responseObject.token) {
 			localStorage.setItem('token', responseObject.token);
-			window.location.replace("/html/professores.html");
+			window.location.replace("/html/home_login.html");
 		} else {
-			messageElement.innerHTML = "Username/password inválido!";
+			messageElement.innerHTML = "Usuário ou senha inválidos!";
 		}
 	});
 
