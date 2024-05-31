@@ -10,7 +10,7 @@ package br.mackenzie.restapi.medias.entity;
 // import br.mackenzie.restapi.Avaliacao.Avaliacao;
 import javax.persistence.*;
 
-import br.mackenzie.restapi.Avaliacao.Avaliacao;
+//import br.mackenzie.restapi.Avaliacao.Avaliacao;
 
 import java.util.*;
 
