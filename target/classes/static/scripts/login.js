@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     const loginForm = document.getElementById('login-form');
-    var messageElement = document.getElementById('message-login');
+    const messageElement = document.getElementById('message-login');
 
     loginForm.addEventListener('submit', function (event) {
         event.preventDefault();
@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const username = document.getElementById('username').value;
         const password = document.getElementById('password').value;
 
-        fetch('http://52.72.120.85:8080/authenticate', {
+        fetch('http://localhost:8080/authenticate', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
         })
             .then(response => {
                 if (!response.ok) {
-                    throw new Error('Failed to login');
+                    throw new Error('Invalid username or password');
                 }
                 return response.json();
             })
@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function () {
             })
             .catch(error => {
                 console.error('Login failed:', error);
-                messageElement.innerHTML = "Usuário ou senha inválidos!";
+                messageElement.textContent = "Usuário ou senha inválidos!";
             });
 
     });

@@ -46,7 +46,6 @@ public class SerieController {
   // }
 
   @PostMapping("/series")
-  // @PreAuthorize("hasRole('ADMIN')")
   public Serie postSerie(@RequestBody Serie serie) {
     return repository.save(serie);
   }

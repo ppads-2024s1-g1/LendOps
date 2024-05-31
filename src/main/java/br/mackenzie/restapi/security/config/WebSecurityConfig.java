@@ -15,6 +15,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 
+@SuppressWarnings("deprecation")
 @Configuration
 @EnableWebSecurity
 @EnableGlobalMethodSecurity(prePostEnabled = true)
@@ -53,7 +54,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
         // We don't need CSRF for this example
         httpSecurity.csrf(csrf -> csrf.disable())
                 // dont authenticate this particular request
-                .authorizeRequests(requests -> requests.antMatchers("/authenticate", "/register", "/index.html", "/", "/html/**", "/js/**", "/img/**", "/html/home.html").permitAll().
+                .authorizeRequests(requests -> requests.antMatchers("/authenticate", "/register", "/index.html", "/", "/html/**", "/**.js", "/img/**","/favicon.ico", "/cadastrar.html", "/login.html").permitAll().
                         // all other requests need to be authenticated
                         anyRequest().authenticated()).
                 // make sure we use stateless session; session won't be used to
