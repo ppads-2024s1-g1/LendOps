@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const password = document.getElementById('password').value;
 
         // Requisição para a API de cadastro
-        fetch('http://52.72.120.85:8080/register', {
+        fetch('https://lendops-deploy.onrender.com/register', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
