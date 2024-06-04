@@ -1,0 +1,67 @@
+{
+  "movies": [
+    {
+      "id": "76341"
+    },
+    {
+      "id": "12155"
+    },
+    {
+      "id": "1571"
+    },
+    {
+      "id": "653346"
+    },
+    {
+      "id": "9336"
+    },
+    {
+      "id": "823464"
+    },
+    {
+      "id": "264660"
+    }
+  ],
+  "series": [
+    {
+      "id": "85077"
+    },
+    {
+      "id": "2691"
+    },
+    {
+      "id": "62223"
+    }
+  ],
+  "books": [
+    {
+      "id": "9780606303248"
+    },
+    {
+      "id": "0393355942"
+    },
+    {
+      "id": "9780606303248"
+    },
+    {
+      "id": "034213678X"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "0",
+      "username": "admin",
+      "isAdmin": true,
+      "email": "admin@admin.com",
+      "password": "admin"
+    },
+    {
+      "id": "1",
+      "username": "user",
+      "isAdmin": false,
+      "email": "user@user.com",
+      "password": "user"
+    }
+  ],
+  "comments": []
+}

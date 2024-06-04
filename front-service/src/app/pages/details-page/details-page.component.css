@@ -1,0 +1,17 @@
+.details-div {
+  background-color: purple;
+  border-radius: 15px;
+}
+
+h3 {
+  color: white;
+}
+
+button {
+  min-width: 90%;
+}
+
+ngb-rating {
+  color: #88ff00;
+  font-size: 5vw;
+}

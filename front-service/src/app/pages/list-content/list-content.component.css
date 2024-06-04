@@ -1,0 +1,13 @@
+h3 {
+  color: white;
+  font-size: 5vh;
+}
+
+.div-image {
+  margin-top: 1vh;
+}
+
+.div-image:hover {
+  transform: scale(1.1); /* Increase size by 10% on hover */
+  transition: transform 0.2s ease-in-out; /* Smooth transition */
+}
